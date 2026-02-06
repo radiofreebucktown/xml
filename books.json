@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "Darksoft Pick: Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "image": "https://images-us.bookshop.org/ingram/9780440180296.jpg",
+      "url": "https://bookshop.org/a/117735/9780440180296"
+    },
+    {
       "title": "Keep Your Ear to the Ground",
       "author": "John R Davis",
       "image": "https://images-us.bookshop.org/ingram/9781647126353.jpg",
