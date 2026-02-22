@@ -272,4 +272,36 @@
     <footprint>Rising</footprint>
     <program>PROGRAM: RFB UNPLUGGED</program>
   </track>
+    <track num="35">
+    <song>Thank You (triple j Like A Version)</song>
+    <artist>Babe Rainbow</artist>
+    <duration>3:14</duration>
+    <views>8.5k</views>
+    <footprint>Deep</footprint>
+    <program>PROGRAM: RFB UNPLUGGED</program>
+  </track>
+    <track num="36">
+    <song>Feel IT (Acoustic)</song>
+    <artist>JW Francis</artist>
+    <duration>3:20</duration>
+    <views>169</views>
+    <footprint>Rising</footprint>
+    <program>PROGRAM: RFB UNPLUGGED</program>
+  </track>
+    <track num="37">
+    <song>Jesse (Acoustic feat. Day Wave)</song>
+    <artist>Hazel English</artist>
+    <duration>2:45</duration>
+    <views>6.4k</views>
+    <footprint>Deep</footprint>
+    <program>PROGRAM: RFB UNPLUGGED</program>
+  </track>
+    <track num="38">
+    <song>Temporary</song>
+    <artist>Lost File</artist>
+    <duration>4:00</duration>
+    <views>2k</views>
+    <footprint>Deep</footprint>
+    <program>PROGRAM: RFB UNPLUGGED</program>
+  </track>
 </playlist>
