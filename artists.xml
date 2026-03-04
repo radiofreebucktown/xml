@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artist_directory>
   <entry>
+    <artist>Best Dressed Ghost</artist>
+    <song>Funhouse</song>
+    <youtube_id>MlBb6wtT5wA</youtube_id>
+    <image_url>https://img1.wsimg.com/isteam/ip/df7edd15-3138-4549-9747-7d0938327a8a/bdg.jpg/:/</image_url>
+    <bio>best dressed ghost is a four piece from new jersey that has an in-your-face live show that some have described as "extremely loud" and "jesus christ." a bit of garage rock, a bit of punk, and a salty undertone of surf will have you feeling roughed up in a good way. their debut ep "dead rock" has been featured on spotify's "best of rock finds 2025" and their next ep is slated to drop march of '26.</bio>
+  </entry>
+    <entry>
+    <artist>Demo Division</artist>
+    <song>Wasting All My Time</song>
+    <youtube_id>jdd7hcMmaCQ</youtube_id>
+    <image_url>https://img1.wsimg.com/isteam/ip/df7edd15-3138-4549-9747-7d0938327a8a/demo.jpg/:/</image_url>
+    <bio>Demo Division is a four-piece rock band based out of Chicago. Blending heavy grit with ridiculously catchy hooks, the band delivers high-energy anthems that leave a lasting mark.</bio>
+  </entry>
+  <entry>
     <artist>Darksoft</artist>
     <song>Spend Your Days</song>
     <youtube_id>X94m_fPQraM</youtube_id>
