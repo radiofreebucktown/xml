@@ -13,7 +13,7 @@
 <link>https://read.rfb.fm</link>
 </image>
 <generator>Substack</generator>
-<lastBuildDate>Sun, 11 Oct 2026 19:49:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 20:03:12 GMT</lastBuildDate>
 <atom:link href="https://read.rfb.fm/feed" rel="self" type="application/rss+xml"/>
 <copyright>
 <![CDATA[ radiofreebucktown ]]>
@@ -49,8 +49,11 @@
 </itunes:block>
 <item>
 <title>
-<![CDATA[ NYC 2026 ]]>
+<![CDATA[ FOUND OBJECTS: NYC 2026 ]]>
 </title>
+<description>
+<![CDATA[ Various photos from our wanderings this year in NYC ]]>
+</description>
 <link>https://read.rfb.fm/p/nyc-2026</link>
 <guid isPermaLink="false">https://read.rfb.fm/p/nyc-2026</guid>
 <dc:creator>
